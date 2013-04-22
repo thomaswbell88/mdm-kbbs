@@ -1,0 +1,8 @@
+[MdmGreeterTheme]
+Encoding=UTF-8
+Greeter=theme.xml
+Name=Custom kbbs Login Theme
+Description=Custom login theme for kbbs accounting services by http://thomaswbell.co.uk
+Author=http://thomaswbell.co.uk
+Copyright=Thomas W Bell
+Screenshot=background.png
